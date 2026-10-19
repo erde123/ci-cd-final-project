@@ -1,5 +1,12 @@
 # CI/CD Tools and Practices Final Project Template
-# ci-cd-final-project
+project name: ci-cd-final-project
+
+GitHub URL of .github/workflows/worflow.yml
+https://github.com/erde123/ci-cd-final-project/blob/main/.github/workflows/workflow.yml
+https://github.com/erde123/ci-cd-final-project/actions/runs/39215767145
+
+GitHub URL of .tekton/tasks.yml
+https://github.com/erde123/ci-cd-final-project/blob/main/.tekton/tasks.yml
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
